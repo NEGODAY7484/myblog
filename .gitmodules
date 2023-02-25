@@ -1,0 +1,4 @@
+[submodule "NEGODAY7484.github.io"]
+	path = NEGODAY7484.github.io
+	url = git@github.com:NEGODAY7484/NEGODAY7484.github.io.git
+	branch = main
